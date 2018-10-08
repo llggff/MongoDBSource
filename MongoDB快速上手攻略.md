@@ -93,7 +93,7 @@ MongoDB是一个开源的NoSQL文档数据库，它使用一个JSON格式的模�
 
 ​	选择自定义安装  Custom
 
- 	![2](assets/2.png) 
+​	![2](assets/2.png) 
 
 ​	设置账号密码，和data ,log 目录位置
 
