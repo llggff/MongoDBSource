@@ -91,7 +91,7 @@ MongoDB是一个开源的NoSQL文档数据库，它使用一个JSON格式的模�
 
 ​	![1](assets/1.png)
 
-​	选择自定义安装 Custom
+​	选择自定义安装  Custom
 
  	![2](assets/2.png) 
 
