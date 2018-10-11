@@ -22,7 +22,3 @@
 
   - 7.MongoDB性能的优化
 
-
-## License
-
-MIT
